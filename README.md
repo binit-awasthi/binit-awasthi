@@ -37,7 +37,7 @@ human = {
 
 ## 🚀 Featured Project
 
-### <a href = "https://google.com">✍️ HMER — Handwritten Math Expression Recognizer</a>
+### <a href = "https://huggingface.co/spaces/binit-awasthi/hmer-demo">✍️ HMER — Handwritten Math Expression Recognizer</a>
 
 > *Teaching a neural net to read math so I could avoid doing it myself.*
 
