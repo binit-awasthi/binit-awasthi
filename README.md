@@ -1,4 +1,9 @@
-<div align="center">
+[![View Full Profile](https://img.shields.io/badge/✨%20View%20Full%20Profile-7c6cfc?style=for-the-badge)](https://binit-awasthi.github.io)
+
+
+
+
+<!-- <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Binit%20Awasthi%20👋&fontSize=40&fontAlignY=35&desc=I%20teach%20machines%20to%20think%20so%20I%20don't%20have%20to&descAlignY=55&descSize=18&fontColor=ffffff)
 
@@ -82,4 +87,4 @@ human = {
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-</div>
+</div> -->
