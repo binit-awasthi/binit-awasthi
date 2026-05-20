@@ -73,4 +73,6 @@ A socket-based group chat program written in C, demonstrating low-level network 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=binit-awasthi&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/binit-awasthi)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=binit-awasthi&theme=default&hide_border=true)](https://github.com/binit-awasthi)
+
 </div>
