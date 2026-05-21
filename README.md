@@ -4,7 +4,7 @@
 
 # Binit Awasthi
 
-`Computer Engineering` &nbsp;·&nbsp; `AI / ML` &nbsp;·&nbsp; `Builder`
+`Computer Engineering` &nbsp;·&nbsp; `AI / ML`
 
 *IOE Purwanchal Campus, Dharan, Nepal 🇳🇵*
 
